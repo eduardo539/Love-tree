@@ -145,13 +145,13 @@ function startFloatingObjects() {
 
 
 // ===============================
-// Cuenta de amor (hora Google)
+// Cuenta(hora Google)
 // ===============================
 async function showCountdown() {
   const container = document.getElementById('countdown');
 
   // Fecha de inicio de la relación
-  const startDate = new Date('2022-06-14T00:00:00');
+  const startDate = new Date('2022-06-04T00:00:00');
 
   // Obtener fecha actual desde Google
   let now;
