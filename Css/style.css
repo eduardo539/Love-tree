@@ -44,7 +44,6 @@ body {
   /* Asegura que el contenedor tenga el nuevo tamaño */
   width: 520px !important;
   height: 520px !important;
-  /* Centrado absoluto */
   position: absolute;
   top: 50%;
   left: 50%;
